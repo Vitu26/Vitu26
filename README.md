@@ -4,7 +4,7 @@
 
 - 🔭 Estudante de análises e desenvolvimentos de sistemas
 - 🌱 No momento focado na área FRONT-END
-- 👯 Colaborador do projeto FEEDFRONT-PB
+- 👯 Colaborador no projeto FEEDFRONT-PB
 - 💬 HTML, CSS, JavaScript, Flutter/Dart...
 
 <div align="center">
