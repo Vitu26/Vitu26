@@ -1,5 +1,5 @@
 ### Opa! Eu sou o Victor Loic! 👋
-Tudo bem com vocêw
+### Tudo bem com você?
 
 
 - 🔭 Estudante de análises e desenvolvimentos de sistemas
