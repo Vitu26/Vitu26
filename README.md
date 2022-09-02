@@ -5,7 +5,7 @@
 - 🔭 Estudante de análises e desenvolvimentos de sistemas
 - 🌱 No momento focado na área FRONT-END
 - 👯 Colaborador no projeto FEEDFRONT-PB
-- 💬 HTML, CSS, JavaScript, Flutter/Dart...
+- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP iniciante...
 
 <div align="center">
   <a href="https://github.com/Vitu26">
@@ -20,6 +20,7 @@
   <img align="center" alt="Vitu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitu-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
+  <img align= "center" alt-"Vitu-PHP" height="30" widht="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   
 </div>
 
