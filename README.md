@@ -5,7 +5,7 @@
 - 🔭 Estudante de análises e desenvolvimentos de sistemas
 - 🌱 No momento focado na área FRONT-END
 - 👯 Colaborador no projeto FEEDFRONT-PB
-- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP iniciante...
+- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, React iniciante...
 
 <div align="center">
   <a href="https://github.com/Vitu26">
