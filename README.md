@@ -8,9 +8,12 @@
 - 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, React iniciante...
 
 <div align="center">
-  <a href="https://github.com/Vitu26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitu26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitu26&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
