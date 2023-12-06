@@ -5,7 +5,8 @@
 - 🔭 Estudante de análises e desenvolvimentos de sistemas
 - 🌱 No momento focado na área FRONT-END
 - 👯 Colaborador no projeto FEEDFRONT-PB
-- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, React iniciante...
+- Trabalho como desenvolvedor mobile na PBSOFT
+- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React iniciante...
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=Vitu26&show_icons=true&theme=dark">
