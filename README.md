@@ -2,7 +2,7 @@
 ### Tudo bem com você?
 
 
-- 🔭 Estudante de análises e desenvolvimentos de sistemas
+- 🔭 Analista e desenvolvedor de sistemas
 - 🌱 No momento focado na área FRONT-END
 - 👯 Colaborador no projeto FEEDFRONT-PB
 - Trabalho como desenvolvedor mobile na PBSOFT
