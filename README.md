@@ -3,7 +3,7 @@
 
 
 - 🔭 Analista e desenvolvedor de sistemas
-- 🌱 No momento focado na área FRONT-END
+- 🌱 Desenvolvedor mobile e web
 - 👯 Colaborador no projeto FEEDFRONT-PB
 - Trabalho como desenvolvedor mobile na PBSOFT
 - 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React iniciante...
