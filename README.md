@@ -6,7 +6,7 @@
 - 🌱 Desenvolvedor mobile e web
 - 👯 Colaborador no projeto FEEDFRONT-PB
 - Trabalho como desenvolvedor mobile na PBSOFT
-- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React iniciante...
+- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React, Angular
 
 <div style="text-align: center;" align="center">
   <br>
