@@ -5,8 +5,10 @@
 - 🔭 Analista e desenvolvedor de sistemas
 - 🌱 Desenvolvedor mobile e web
 - 👯 Colaborador no projeto FEEDFRONT-PB
-- Trabalho como desenvolvedor mobile na PBSOFT
-- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React, Angular
+- Trabalhei como desenvolvedor mobile na PBSOFT
+- Trabalhei como desenvolvedor full-stack na Faculdade Três Marias
+- Trabalho como desenvolvedor front-end/mobile flutter na SeedTs
+- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React, ReactNative
 
 <div style="text-align: center;" align="center">
   <br>
