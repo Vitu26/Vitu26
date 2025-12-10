@@ -29,7 +29,6 @@
   <img align="center" alt="Vitu-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
   <img align= "center" alt-"Vitu-PHP" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align= "center" alt-"Vitu-PHP" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align= "center" alt-"Vitu-PHP" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-native-original.svg">
   
 </div>
 
