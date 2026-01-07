@@ -2,14 +2,15 @@
 ### Tudo bem com você?
 
 
-- 🔭 Analista e desenvolvedor de sistemas
-- 🌱 Desenvolvedor mobile e web
-- 👯 Colaborador no projeto FEEDFRONT-PB
+- Analista e desenvolvedor de sistemas
+- Desenvolvedor mobile e web
+- Colaborador no projeto FEEDFRONT-PB
 - Trabalhei como desenvolvedor mobile na PBSOFT
 - Trabalhei como desenvolvedor full-stack na Faculdade Três Marias
-- Trabalho como desenvolvedor front-end/mobile flutter na SeedTs
+- Trabalhei como desenvolvedor front-end/mobile flutter na SeedTs
+- Trabalho como desenvolvedor front-end/mobile flutter na Altoforce
 - Aplicativo da playstore: https://play.google.com/store/apps/details?id=com.vitu.brogo_da_memoria&utm_source=latam_Med
-- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React, ReactNative
+- 💬 HTML, CSS, JavaScript, Flutter/Dart, PHP, Laravel, Firebase, React, ReactNative, Zapier, Ia
 
 <div style="text-align: center;" align="center">
   <br>
